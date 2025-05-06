@@ -1,8 +1,39 @@
 # 👋 Hi there, I'm Mahdi Ebene Mahmud
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Frontend+Developer;Computer+Science+Student;Always+learning+new+things" alt="Typing SVG" />
 
 <div align="center">
-  <img height="120" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="coding animation" />
+  
+```
+ _____                _                 _   _____                 _                     
+|  ___|_ __ ___  _ __ | |_ ___ _ __   __| | |  ___|__  _ __ _ __ (_)_ __   __ _  ___ _ __ 
+| |_ | '__/ _ \| '_ \| __/ _ \ '_ \ / _` | | |_ / _ \| '__| '_ \| | '_ \ / _` |/ _ \ '__|
+|  _|| | | (_) | | | | ||  __/ | | | (_| | |  _| (_) | |  | | | | | | | | (_| |  __/ |   
+|_|  |_|  \___/|_| |_|\__\___|_| |_|\__,_| |_|  \___/|_|  |_| |_|_|_| |_|\__, |\___|_|   
+                                                                         |___/           
+```
+
+```
+ _____                       _            _____      _                      
+/  __ \                     | |          /  ___|    (_)                     
+| /  \/ ___  _ __ ___  _ __ | | ___ _ __ \ `--.  ___ _  ___ _ __   ___ ___  
+| |    / _ \| '_ ` _ \| '_ \| |/ _ \ '__|  `--. \/ __| |/ _ \ '_ \ / __/ _ \ 
+| \__/\ (_) | | | | | | |_) | |  __/ |    /\__/ / (__| |  __/ | | | (_|  __/ 
+ \____/\___/|_| |_| |_| .__/|_|\___|_|    \____/ \___|_|\___|_| |_|\___\___| 
+                      | |                                                   
+                      |_|                                                   
+```
+
+</div>
+
+<div align="center">
+  <!-- Simple coding animation ASCII art -->
+  ```
+    ( )   ( )       
+     H     H        
+    [A]   [C]       
+    /K\   /K\       
+   /ING\ /ING\      
+  (-----)(-----)    
+  ```
 </div>
 
 ## 💫 About Me
@@ -17,13 +48,20 @@ I'm a Computer Science and Engineering fresher at East West University, passiona
 ## 🛠️ Technologies & Tools
 <div align="center">
   
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><strong>HTML5</strong><br><code>&#60;/&#62;</code></td>
+    <td align="center"><strong>CSS3</strong><br><code>{}</code></td>
+    <td align="center"><strong>Tailwind CSS</strong><br><code>@apply</code></td>
+    <td align="center"><strong>JavaScript</strong><br><code>()</code></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>React</strong><br><code>&#60;/&#62;</code></td>
+    <td align="center"><strong>Node.js</strong><br><code>{ }</code></td>
+    <td align="center"><strong>C Programming</strong><br><code>{ }</code></td>
+    <td align="center"><strong>Git</strong><br><code>main</code></td>
+  </tr>
+</table>
 
 </div>
 
@@ -32,9 +70,13 @@ I'm a Computer Science and Engineering fresher at East West University, passiona
 ### 🛒 E-Commerce Platform
 A responsive e-commerce website built with React and Node.js, featuring product listings, cart functionality, and user authentication.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```
+┌────────────────────────────┐
+│ ⚛️ React  │ 📦 Node.js     │
+├────────────────────────────┤
+│ 🎨 CSS3   │ 🔐 Auth        │
+└────────────────────────────┘
+```
 
 <!-- Add actual project link when available -->
 <!-- [View Project](https://github.com/your-username/project-name) -->
@@ -42,8 +84,13 @@ A responsive e-commerce website built with React and Node.js, featuring product 
 ### 📱 Android Application
 A utility app built for Android devices that helps users organize their daily tasks and set reminders.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+```
+┌────────────────────────────┐
+│ ☕ Java   │ 🤖 Android     │
+├────────────────────────────┤
+│ 📱 Mobile │ 🔔 Notifications│
+└────────────────────────────┘
+```
 
 <!-- Add actual project link when available -->
 <!-- [View Project](https://github.com/your-username/project-name) -->
@@ -51,25 +98,31 @@ A utility app built for Android devices that helps users organize their daily ta
 ### 🎮 Web-Based Game
 An interactive browser game built with JavaScript, featuring multiple levels and a leaderboard system.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```
+┌────────────────────────────┐
+│ 🌐 HTML5  │ 🎨 CSS3       │
+├────────────────────────────┤
+│ 🎮 JS     │ 🏆 Leaderboard │
+└────────────────────────────┘
+```
 
 <!-- Add actual project link when available -->
 <!-- [View Project](https://github.com/your-username/project-name) -->
 
 ## 📊 GitHub Stats
-<!-- Replace 'your-username' with your actual GitHub username in the URLs below -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Mahdi's GitHub stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Mahdi's top languages"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Mahdi's streak stats"/>
-  </a>
+  
+```
+┌───────────────────────────────────────────────┐
+│                                               │
+│  📈 Contributions: Growing daily!             │
+│  ⭐ Repositories: Building my portfolio        │
+│  🔥 Streak: Committed to consistent learning   │
+│  💻 Most Used: HTML, CSS, JavaScript          │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
 </div>
 
 ## 📚 Currently Learning
@@ -87,9 +140,15 @@ An interactive browser game built with JavaScript, featuring multiple levels and
 ## 📫 How to Reach Me
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:worksformahdi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+```
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  📧 Email: worksformahdi@gmail.com              │
+│  💼 LinkedIn: linkedin.com/in/your-username     │
+│  🐙 GitHub: github.com/your-username            │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -97,17 +156,24 @@ An interactive browser game built with JavaScript, featuring multiple levels and
 
 <div align="center">
   
-  <!-- Replace 'your-username' with your actual GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-  
-  <!-- This will show a snake animation of your contribution graph -->
-  <!-- Note: To make this work, you need to set up a GitHub Action workflow -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+```
+ ____  _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ 
+|    \|     |   | |     |  |  |     |  _  |  _  |     |   | |   __|
+|  |  |  |  | | | |  |  |    -|  |  |     |     |-   -| | | |  |  |
+|____/|_____|_|___|_____|__|__|_____|__|__|__|__|_____|_|___|_____|
+```
+
+```
+ _    _           _       ____                    _                   
+| |  | |         | |     |  _ \                  | |                  
+| |__| | __ _ ___| |__   | |_) |_ __ _   _ _ __ | |                  
+|  __  |/ _` / __| '_ \  |  _ <| '__| | | | '_ \| |                  
+| |  | | (_| \__ \ | | | | |_) | |  | |_| | |_) |_|                  
+|_|  |_|\__,_|___/_| |_| |____/|_|   \__, | .__/(_)                  
+                                      __/ | |                        
+                                     |___/|_|                        
+```
+
 </div>
 
 ⭐️ From [Mahdi Ebene Mahmud](https://github.com/your-username)
